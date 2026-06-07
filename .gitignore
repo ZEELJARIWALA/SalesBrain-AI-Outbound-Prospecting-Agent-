@@ -1,0 +1,15 @@
+# Python
+**/.venv/
+**/__pycache__/
+**/*.pyc
+**/.env
+**/data/campaigns.json
+**/data/interactions.json
+
+# Node/React
+**/node_modules/
+**/dist/
+.DS_Store
+
+# Local config
+.env
